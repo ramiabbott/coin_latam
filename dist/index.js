@@ -17,4 +17,4 @@ const upServer = () => {
     });
 };
 connectDB ? (0, connection_1.default)(upServer, initialDropDB) : upServer();
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=index.js.map
